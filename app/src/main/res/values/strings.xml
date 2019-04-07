@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EarthQuake</string>
+    <string name="error_message">No recent earhquake found. Swipe to refresh.</string>
+</resources>
